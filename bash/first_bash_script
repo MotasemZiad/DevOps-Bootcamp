@@ -1,0 +1,5 @@
+
+#! /usr/bin/bash
+# This is a single line comment
+echo Hi
+xcowsay "Hi there"
