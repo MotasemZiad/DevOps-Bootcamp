@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # echo $1
+# echo $2
 
 echo "Enter your first number: "
 read x
